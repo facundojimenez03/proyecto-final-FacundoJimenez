@@ -1,29 +1,14 @@
-{
-    "carrito": [
-      {
-        "producto": "Camiseta",
-        "precio": 15.99,
-        "marca": "zara"
-      },
-      {
-        "producto": "Pantalones",
-        "precio": 29.99,
-        "marca": "zara"
-      },
-      {
-        "producto": "Zapatos",
-        "precio": 49.99,
-        "marca": "nike"
-      },
-      {
-        "producto": "remera",
-        "precio": 19.99,
-        "marca": "HYM"
-      },
-      {
-        "producto": "lentes",
-        "precio": 59.99,
-        "marca": "ray ban"
-      }
-    ]
+[
+  {
+      "nombre": "remera",
+      "precio": 40.00
+  },
+  {
+      "nombre": "pantalon",
+      "precio": 20.00
+  },
+  {
+      "nombre": "gorra",
+      "precio": 12.00
   }
+]
